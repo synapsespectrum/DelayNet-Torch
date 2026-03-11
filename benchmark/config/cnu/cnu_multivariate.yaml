@@ -1,0 +1,17 @@
+#INITIAL SETTINGS
+dataset_name: "CNU_ENGINEERING_7"
+kernel_size: 12
+gap: 24
+delay_factor: 3
+nb_filters: 16
+nb_stacks: 2
+input_width: 168
+output_length: 1
+train_ratio: 0.9
+epochs: 10
+features: ["temperatures", "energy"]
+prediction_feature: ["temperatures", "energy"]
+channel_independence: True
+optimizer: "adam"
+metrics: ['mse', 'mae']
+output_dir: "results/cnu_multivariate"
