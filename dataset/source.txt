@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/programmer3/power-quality-fault-detection-dataset
+
+https://github.com/InnovaPower/MitDev-Eletrica
+
+https://figshare.com/articles/dataset/Open_Dataset_of_Real-World_Oscillograms_from_Electric_Power_Grids/28465427/5
+
+https://github.com/elisejiuqizhang/TS-AD-Datasets
+
+https://raw.githubusercontent.com/andrewlee1807/Weights/main/datasets/cnu_multivariable/Engineering-building-7.csv
